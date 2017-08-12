@@ -1189,6 +1189,7 @@
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
+			cursor: pointer;
 		}
 
 			#header .logo .icon:before {
